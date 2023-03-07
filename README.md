@@ -3,6 +3,7 @@ Our Git repository provides quick recap cheat sheets of different programming li
 
 ## List of all
 1.  [Pandas](https://github.com/huneron/cheatsheets/tree/pandas)
+2.  [NumPy](https://github.com/huneron/cheatsheets/tree/numpy)
 
 ## Developers
 - Huzaifa Asim ([@huziprogrammer](https://github.com/huziprogrammer))
@@ -14,7 +15,7 @@ If you have any questions or suggestions, please feel free to reach out to us at
 We would love to hear your feedback on our projects! please leave a review [here](https://huneron.site/contact).
 
 ## Last Update
-Last updated on: Monday, 6 March 2023 (GMT)
+Last updated on: Tuesday, 8 March 2023 (GMT)
 
 ---
 
